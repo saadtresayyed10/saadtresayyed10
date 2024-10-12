@@ -24,5 +24,9 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sayyed Saad) 
 
+  <img src="https://raw.githubusercontent.com/saadtresayyed10/saadtresayyed10/output/snake.svg" alt="Snake animation" />
+
+###
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
